@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Leandr0C4rvalh0
-- 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on projects of security
 - 📫 How to reach me https://www.linkedin.com/in/leandro-carvalho-5b5a4828b/
 
 <!---
