@@ -1,2 +1,1 @@
-- Graduando em Sistemas de Informação 4/9.
-- https://www.linkedin.com/in/leandro-carvalho-5b5a4828b/
+
